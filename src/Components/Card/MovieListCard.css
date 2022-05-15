@@ -1,0 +1,43 @@
+
+.movie_card-container{
+    width: 300px;
+}
+
+.movie_card-container:hover{
+    transition: transform 0.2s;
+    cursor: pointer;
+	transform: scale(1.1);
+}
+
+
+.movie_card-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.movie_card-info span{
+    padding: 0.25rem .5rem;
+    border-radius: 3px;
+}
+
+.movie_card-releaseDate h5{
+    margin: 0;
+}
+
+.movie_card-info span.green{
+    font-weight: 500;
+    left:150%;
+    color:green;
+}
+.movie_card-info span.orange{
+    font-weight: 500;
+    left:150%;
+    color:orange;
+
+}
+.movie_card-info span.red{
+    font-weight: 500;
+    left:150%;
+    color:red;
+}

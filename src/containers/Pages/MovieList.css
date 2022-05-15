@@ -1,0 +1,41 @@
+.curpage{
+    margin: 0 1rem;
+}
+
+.page-button{
+        display:inline-block;
+        border:0.15em solid #CCCCCC;
+        box-sizing: border-box;
+        text-decoration:none;
+        background-color:#CCCCCC;
+        text-align:center;
+        position:relative;
+        }
+
+.page-button:hover{
+        border-color:#7a7a7a;
+        }
+
+.page-button:active{
+        background-color:#999999;
+        }
+
+.filter-button{
+    display:inline-block;
+    padding:0.3em 1.2em;
+    margin:0 0.3em 0.3em 0;
+    border-radius:2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#FFFFFF;
+    background-color:#4eb5f1;
+    text-align:center;
+    transition: all 0.2s;
+    border:none;
+    }
+
+.filter-button:hover{
+    background-color:#4095c6;
+    }
