@@ -3,4 +3,4 @@ Use React,Router, hooks, Redux, Bootstrap React.
 
 Build with Single Page Application. 
 
-URL: https://beamish-bubblegum-b7f015.netlify.app/
+URL: https://top-rated-movie-list-react-lyon.netlify.app/
