@@ -1,4 +1,8 @@
 # Movie website:
+
+Skill Insight:
+
+
 Use React,Router, hooks, Redux, Bootstrap React.
 
 Build with Single Page Application. 
